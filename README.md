@@ -1,6 +1,6 @@
 ### Hi there, it's me Prapti 👋
 
-
+[![HitCount](http://hits.dwyl.com/praptidevgun25/praptidevgun25.svg)](http://hits.dwyl.com/praptidevgun25/praptidevgun25)
 
 
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
