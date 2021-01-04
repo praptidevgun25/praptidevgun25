@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, it's me Prapti 👋
 
-I'm Prapti, an aspiring Software Developer from India. I'm currently a second year computer science undergraduate at Sharda University, Greater Noida.
+
 
 
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
