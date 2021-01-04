@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1344347777367560192/1609772463/600x200)
-
 ### Hola, I'm Prapti 👋
 <a href="mailto:praptidevgun25@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
