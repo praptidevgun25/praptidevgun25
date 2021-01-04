@@ -2,11 +2,7 @@
 <a href="mailto:praptidevgun25@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
-
 [![HitCount](http://hits.dwyl.com/praptidevgun25/praptidevgun25.svg)](http://hits.dwyl.com/praptidevgun25/praptidevgun25)
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1344347777367560192/1609353550/600x200)
-
 Gist About Me -
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
 - 🌱 I’m also into content writing, both tech and non-tech.
