@@ -1,4 +1,4 @@
-### Hi there, it's me Prapti 👋
+### Hola, I'm Prapti👋
 
 [![HitCount](http://hits.dwyl.com/praptidevgun25/praptidevgun25.svg)](http://hits.dwyl.com/praptidevgun25/praptidevgun25)
 
