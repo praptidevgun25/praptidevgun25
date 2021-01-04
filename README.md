@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Prapti, an aspiring Software Developer. Currently a second year CSE student at Sharda University, Greater Noida. I have a love/hate relationship with programming. 
+I'm Prapti, an aspiring Software Developer. Currently a second year CSE student at Sharda University, Greater Noida.
 
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
 - 🌱 I’m also learning Machine Learning.
