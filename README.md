@@ -12,6 +12,9 @@ Gist About Me -
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a love/hate relationship with programming.
 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
+
 [twitter]: https://twitter.com/DevgunPrapti
 [linkedin]: https://www.linkedin.com/in/prapti-devgun-a7186a200/
 
