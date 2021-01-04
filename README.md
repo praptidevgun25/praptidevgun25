@@ -5,6 +5,8 @@
 
 [![HitCount](http://hits.dwyl.com/praptidevgun25/praptidevgun25.svg)](http://hits.dwyl.com/praptidevgun25/praptidevgun25)
 
+*Observe, Learn & Grow!!*
+
 Gist About Me -
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
 - 🌱 I’m also into content writing, both tech and non-tech.
