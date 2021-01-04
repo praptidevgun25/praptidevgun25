@@ -2,6 +2,8 @@
 
 I'm Prapti, an aspiring Software Developer from India. I'm currently a second year computer science undergraduate at Sharda University, Greater Noida.
 
+*Talking about personal stuff*
+
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
 - 🌱 I’m also into content writing (tech and non-tech).
 - 👯 I’m open for collaboration in Machine Learning. 
