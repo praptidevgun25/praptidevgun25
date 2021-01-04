@@ -16,7 +16,7 @@ Gist About Me -
 
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
-
+Connect With Me - 
 [twitter]: https://twitter.com/DevgunPrapti
 [linkedin]: https://www.linkedin.com/in/prapti-devgun-a7186a200/
 
