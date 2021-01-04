@@ -3,7 +3,7 @@
 I'm Prapti, an aspiring Software Developer. Currently a second year CSE student at Sharda University, Greater Noida.
 
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
-- 🌱 I’m also learning Machine Learning.
+- 🌱 I’m also into content writing (tech and non-tech).
 - 👯 I’m open for collaboration in Machine Learning. 
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about anything, I'm happy to help.
