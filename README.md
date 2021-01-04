@@ -10,4 +10,3 @@ I'm Prapti, an aspiring Software Developer. Currently a second year CSE student 
 - 📫 How to reach me: [LinkedInProfile](https://www.linkedin.com/in/prapti-devgun-a7186a200/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a love/hate relationship with programming.
--->
