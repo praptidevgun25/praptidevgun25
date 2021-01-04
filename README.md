@@ -14,7 +14,7 @@ Gist About Me -
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a love/hate relationship with programming.
 
-Connect With Me - 
+# Connect With Me - 
 
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
