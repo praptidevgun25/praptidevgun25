@@ -5,6 +5,7 @@
 
 
 [![HitCount](http://hits.dwyl.com/praptidevgun25/praptidevgun25.svg)](http://hits.dwyl.com/praptidevgun25/praptidevgun25)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1344347777367560192/1609353550/600x200)
 
 Gist About Me -
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
