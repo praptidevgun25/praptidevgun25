@@ -13,6 +13,7 @@ Gist About Me -
 - 💬 Ask me about anything, I'm happy to help.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a love/hate relationship with programming.
+
 Connect With Me - 
 
 🐦 [twitter][twitter] **|** 
