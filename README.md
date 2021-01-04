@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Prapti, an aspiring Software Developer. Currently a second year Computer Science (spec. in Artificial Intelligence and Machine Learning) student at Sharda University, Greater Noida.
+I'm Prapti, an aspiring Software Developer, currently a second year computer science student at Sharda University, Greater Noida.
 
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
 - 🌱 I’m also into content writing (tech and non-tech).
