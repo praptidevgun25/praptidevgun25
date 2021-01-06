@@ -11,7 +11,6 @@ Gist About Me -
 - 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
 - 🌱 I’m also into content writing, both tech and non-tech.
 - 👯 I’m looking to collaborate on projects and hackathons.
-- 🤔 I’m looking for help with AWS.
 - 💬 Ask me about anything, I'm happy to help.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a love/hate relationship with programming.
