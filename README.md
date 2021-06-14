@@ -31,4 +31,4 @@ Connect With Me -
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ask-Prapti.Ask-Prapti)
 
-<h3 align="center">Show some&nbsp;❤️&nbsp; by starring some of my repositories.</h3>
+<h3 align="center">Show some love by starring some of my repositories.</h3>
