@@ -1,7 +1,4 @@
-### Hi, I'm Prapti 👋
-<a href="mailto:praptidevgun25@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+### Hi there, I'm Prapti 👋
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
