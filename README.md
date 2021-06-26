@@ -1,6 +1,6 @@
 ### Hi there, I'm Prapti 👋
 
-![image](https://raw.githubusercontent.com/AnandBaburajan/anandbaburajan/main/meow.gif)
+![image](https://raw.githubusercontent.com/PraptiDevgun25/praptidevgun25/main/meow.gif)
 
 *Observe, Learn & Grow!!*
 
