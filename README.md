@@ -38,5 +38,9 @@ Gist About Me -
 </p
  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ask-Prapti.Ask-Prapti)
+    
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=praptidevgun25) 
 
 <h3 align="center">Show some love by starring some of my repositories.</h3>
+
+
