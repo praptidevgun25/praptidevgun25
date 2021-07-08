@@ -5,12 +5,14 @@
 *Observe, Learn & Grow!!*
 
 Gist About Me -
-- 🔭 I’m currently working, learning and growing my skillset in data structures and algorithms.
-- 🌱 I’m also into content writing, both tech and non-tech.
+<ul>
+- 🔭 <b>I’m currently working, learning and growing my skillset in</b> <code>Data Structures and Algorithms</code>
+- 🌱 I’m also into <code>content writing</code>, both tech and non-tech.
 - 👯 I’m looking to collaborate on open source and hackathons.
 - 💬 Ask me about anything, I'm happy to help.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a love/hate relationship with programming.
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 
