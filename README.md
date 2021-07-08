@@ -1,6 +1,6 @@
 ### Hi there, I'm Prapti 👋
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-![image](https://raw.githubusercontent.com/PraptiDevgun25/praptidevgun25/main/meow.gif)
 
 *Observe, Learn & Grow!!*
 
