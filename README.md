@@ -6,12 +6,19 @@
 
 Gist About Me -
 <ul>
-- 🔭 <b>I’m currently working, learning and growing my skillset in</b> <code>Data Structures and Algorithms</code>
-- 🌱 I’m also into <code>content writing</code>, both tech and non-tech.
-- 👯 I’m looking to collaborate on open source and hackathons.
-- 💬 Ask me about anything, I'm happy to help.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a love/hate relationship with programming.
+    
+- 🔭 <b>I’m currently working, learning and growing my skillset in</b> <code>Data Structures and Algorithms.</code>   
+    
+- 🌱 <b>I’m also into</b> <code>content writing.</code>
+    
+- 👯 <b>I’m looking to collaborate on</b> <code>open source</code> <b>and</b> <code>hackathons.</code>     
+
+- 💬 <b>Ask me about</b> <code>programming</code> <b>related stuff, I'll be happy to help.</b>  
+    
+- 😄 <b>Pronouns:</b> <code>She/Her</code>   
+    
+- ⚡ <b>Fun fact: I have a</b> <code>love/hate</code> <b>relationship with programming.</b>   
+    
 </ul>
 
 <h3 align="left">Connect with me:</h3>
