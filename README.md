@@ -15,8 +15,6 @@ Gist About Me -
 
 - 💬 <b>Ask me about</b> <code>programming</code> <b>related stuff, I'll be happy to help.</b>  
     
-- 😄 <b>Pronouns:</b> <code>She/Her</code>   
-    
 - ⚡ <b>Fun fact: I have a</b> <code>love/hate</code> <b>relationship with programming.</b>   
     
 </ul>
