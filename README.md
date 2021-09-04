@@ -41,6 +41,12 @@ Gist About Me -
 </p>
 
 <p align="center">
+    <a href="https://github.com/praptidevgun25/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FalconHex's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FalconHex&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=praptidevgun25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p
  
