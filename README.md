@@ -49,11 +49,5 @@ Gist About Me -
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=praptidevgun25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p
- 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ask-Prapti.Ask-Prapti)
-    
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=praptidevgun25) 
-
-<h3 align="center">Show some love by starring some of my repositories.</h3>
 
 
